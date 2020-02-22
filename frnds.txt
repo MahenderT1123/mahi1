@@ -2,6 +2,7 @@ friends list
   me
  vamsi 
  raja
+
  shashi 
  vinay
    
@@ -9,4 +10,9 @@ friends list
    school frnds
    aaaa
    bbb
+
+ shashi vinay 
+ sai
+ venkat
+
  
