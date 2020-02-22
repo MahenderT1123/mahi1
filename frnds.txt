@@ -1,4 +1,6 @@
 friends list
   me
- vamsi
+ vamsi 
+ raja
+ shashi
  
